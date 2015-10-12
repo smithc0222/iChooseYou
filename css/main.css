@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 7, 2015, 1:52:32 PM
+    Author     : Chase
+*/
+body{
+    font-family: montserrat;
+}
+/* Header */
+
+.navbar{
+    background-color: lightsalmon;
+}
+
+header {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/* Form */
+
+a{
+    text-align: center;
+}
+#submit {
+    width: 100%; 
+    height: 50px;
+}
+
+form {
+    font-size: 20px;
+}
+
+/* Footer need to center the footer links */
+li{
+    padding: 5px;
+}
+ul{
+    margin-left: 5px;
+}
+.messages {
+    background-color: lightyellow;
+}
+
+.challenges {
+    background-color: lightgreen;
+}
+
+.score {
+    background-color: lightblue;
+}
+
+.dates {
+    background-color: lightcoral;
+}
+
+.memories {
+    background-color: lightseagreen;
+}
+
+/*form*/
